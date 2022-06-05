@@ -4,3 +4,4 @@ i.    Merge all the Lidar data using the relative motions provided.\
 ii.   Use the code developed in "3D-Projective-Geometry-I" (GitHup) to associate colors to 3D points. Then delete the points that have no color.\      
 iii.  Export the points cloud in standard ply format using the plyfile library.
 
+![ply_file_Image](https://user-images.githubusercontent.com/95139819/172069725-89c79f1c-9f87-420d-87d5-fb3570485025.png)
